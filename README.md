@@ -111,11 +111,11 @@ You only need a modern web browser. For development, a local server is recommend
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/mintlify-frontend-clone.git
+   git clone https://github.com/your-username/saas-documentation-landing.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd mintlify-frontend-clone
+   cd saas-documentation-landing
    ```
 3. Open `index.html` in your browser, or use a tool like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VSCode for hot reloading.
    ```sh
