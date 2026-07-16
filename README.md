@@ -137,12 +137,8 @@ You only need a modern web browser. For development, a local server is recommend
 
 ---
 
-## 👤 Contact
-
-**Soham Das** 
-
 - Live Demo: [https://mintlify-soham.vercel.app/](https://mintlify-soham.vercel.app/)
-- Project Link: [https://github.com/your-username/mintlify-frontend-clone](https://github.com/Insohamdas/saas-documentation-landing)
+- Project Link: [https://github.com/Insohamdas/saas-documentation-landing](https://github.com/Insohamdas/saas-documentation-landing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
