@@ -52,6 +52,8 @@
 
 ## 🚀 About The Project
 
+> **Disclaimer:** This project is a frontend recreation of the Mintlify landing page for educational purposes. It is not affiliated with or endorsed by Mintlify.
+
 This project is a **desktop-first recreation of the Mintlify documentation-style landing page**, built entirely from scratch as part of a web development assignment. 
 
 The primary focus was achieving **layout accuracy, structural fidelity, and premium readability**, closely matching the modern and sleek aesthetic of the original Mintlify front page. 
