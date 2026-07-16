@@ -111,7 +111,7 @@ You only need a modern web browser. For development, a local server is recommend
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/saas-documentation-landing.git
+   git clone https://github.com/Insohamdas/saas-documentation-landing.git
    ```
 2. Navigate to the project directory
    ```sh
@@ -142,7 +142,7 @@ You only need a modern web browser. For development, a local server is recommend
 **Soham Das** 
 
 - Live Demo: [https://mintlify-soham.vercel.app/](https://mintlify-soham.vercel.app/)
-- Project Link: [https://github.com/your-username/mintlify-frontend-clone](https://github.com/your-username/mintlify-frontend-clone)
+- Project Link: [https://github.com/your-username/mintlify-frontend-clone](https://github.com/Insohamdas/saas-documentation-landing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
